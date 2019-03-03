@@ -13,6 +13,7 @@
 My goal is become as a person who can work in a team and make money to help my family. I want to upgrade my programming skills and English language with help of this courses. I am a sociable and non-conflicting person, rather lazy but do not give up before the tasks.
 
 ## Skills
+
 ### Languages: 
 1. C# beginner
 2. C++ beginner
@@ -33,6 +34,6 @@ My goal is become as a person who can work in a team and make money to help my f
 My experience consists of projects on Codecademy and HTMLacademy and university assignments.
 
 ## English level
-* A2 (Intermediate English) 
+* A2 (Preintermediate English) 
 * English at school from first  to last class
 * English lessons at university 
