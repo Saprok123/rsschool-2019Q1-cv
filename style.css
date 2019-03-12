@@ -1,3 +1,8 @@
+@font-face { 
+    font-family: 'Times New Roman', Times, serif;
+    src: local(Times);
+}
+
 html {
     display: flex;
     justify-content: center;
@@ -5,14 +10,13 @@ html {
 
 body {
     width: 1024px;
-    
-}
-
-.kartinka img {
-    max-height: 250px;
-    max-width: 150px;
 }
 
 .cont ul {
     font-family: 'Times New Roman', Times, serif;
-} 
+}
+
+.goal {
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
