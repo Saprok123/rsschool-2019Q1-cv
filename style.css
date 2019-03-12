@@ -1,0 +1,25 @@
+html {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    width: 1024px;
+}
+
+.perv1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.vtor li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: green;
+}
+
+.tri1 h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.chet1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
